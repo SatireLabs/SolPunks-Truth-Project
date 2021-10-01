@@ -26,7 +26,7 @@ If you look closely and hard enough, they all look eerily similar to Mario's bum
 
 We know that Tractor directly copied from CryptoPunks. So maybe do some cross-butt analysis to determine key features of Tractor's SolPunks.
 
-We also looking releasing images of all 10,000 REAL "Dumb" SolPunks. So you can see what greatness looks like 😎. And so you can see they're not butts.
+We also released images of all 10,000 REAL "Dumb" SolPunks. So you can see what greatness looks like 😎. And so you can see they're not butts.
 
 ![Our Partners](assets/brand-support.png)
 
