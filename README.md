@@ -5,7 +5,7 @@
 
 Quick Links:
 - [Find Your Perfect "Dumb" Tool](https://dumbsolpunks.com/profile) 👈
-- **NEW?** Skip to the [timeline](#timeline)) (view full-sized timeline image [here](https://github.com/solpunks69/SolPunks-Truth-Project/blob/main/assets/timeline.png?raw=true)). 👈
+- **NEW?** Skip to the [timeline](#timeline)) (view full-sized timeline image [here](https://github.com/solpunks69/SolPunks-Truth-Project/blob/master/assets/timeline.png?raw=true)). 👈
 - [SolPunks.org](https://dumbsolpunks.com), [DumbSolPunks.com](https://dumbsolpunks.com), [Discord](https://discord.gg/j5EUfCEb37) 👈
 
 # Punks Datasets & Images
