@@ -30,8 +30,8 @@ We also released images of all 10,000 REAL "Dumb" SolPunks. So you can see what 
 
 ![Our Partners](assets/brand-support.png)
 
-# FIND YOUR PERFECT "DUMB"
-**DON'T LET SOLPUNKS GET DISCOVERED. Help keep crypto & NFT pure and sacred.**
+# Find Your "Dumb"
+**Don't let SolPunks get discovered. Help keep crypto & NFT pure and sacred.**
 We don’t expect most people to YOLO their life savings into Dumb SolPunks (despite their long-term value being 100K SOL each).
 
 But consider making your profile picture a Dumb SolPunk.
