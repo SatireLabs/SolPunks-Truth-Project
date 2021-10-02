@@ -36,8 +36,8 @@ We don’t expect most people to YOLO their life savings into Dumb SolPunks (des
 
 But consider making your profile picture a Dumb SolPunk.
 
-["Find Your Perfect Dumb" Tool](https://dumbsolpunks.com/profile)
-![https://dumbsolpunks.com/profile](assets/profile.png)
+["Find Your Dumb" Tool](https://dumbsolpunks.com/twitter)
+![https://dumbsolpunks.com/twitter](assets/profile.png)
 
 A "dumb" pic the perfect way to
 - Demonstrate your high IQ and humbleness.
