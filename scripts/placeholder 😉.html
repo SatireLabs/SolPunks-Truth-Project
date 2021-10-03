@@ -1,11 +1,11 @@
 # SolPunks Truth Project
-![SolPunks: The Ancient Rivalry](assets/ancient-solpunks.png)
+![SolPunks: Clone Wars](assets/github-header.png)
 
 **Definitive resource for all SolPunks Truth.** Repo will be updated as new info, data, tools are made available.
 
 Quick Links:
 - [Find Your Perfect "Dumb" Tool](https://dumbsolpunks.com/profile) 👈
-- **New here?** Skip to the [timeline](#timeline) (view full-sized timeline image [here](https://github.com/solpunks69/SolPunks-Truth-Project/blob/master/assets/timeline.png?raw=true)). 👈
+- **NEW?** Skip to the [timeline](#timeline)) (view full-sized timeline image [here](https://github.com/solpunks69/SolPunks-Truth-Project/blob/main/assets/timeline.png?raw=true)). 👈
 - [SolPunks.org](https://dumbsolpunks.com), [DumbSolPunks.com](https://dumbsolpunks.com), [Discord](https://discord.gg/j5EUfCEb37) 👈
 
 # Punks Datasets & Images
@@ -30,14 +30,14 @@ We also released images of all 10,000 REAL "Dumb" SolPunks. So you can see what 
 
 ![Our Partners](assets/brand-support.png)
 
-# Find Your "Dumb"
-**Don't let SolPunks get discovered. Help keep crypto & NFT pure and sacred.**
+# FIND YOUR PERFECT "DUMB"
+**DON'T LET SOLPUNKS GET DISCOVERED. Help keep crypto & NFT pure and sacred.**
 We don’t expect most people to YOLO their life savings into Dumb SolPunks (despite their long-term value being 100K SOL each).
 
 But consider making your profile picture a Dumb SolPunk.
 
-["Find Your Dumb" Tool](https://dumbsolpunks.com/twitter)
-![https://dumbsolpunks.com/twitter](assets/profile.png)
+["Find Your Perfect Dumb" Tool](https://dumbsolpunks.com/profile)
+![https://dumbsolpunks.com/profile](assets/profile.png)
 
 A "dumb" pic the perfect way to
 - Demonstrate your high IQ and humbleness.
