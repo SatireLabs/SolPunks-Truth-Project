@@ -4,7 +4,7 @@
 **Definitive resource for all SolPunks Truth.** Repo will be updated as new info, data, tools are made available.
 
 Quick Links:
-- [Find Your Perfect "Dumb" Tool](https://dumbsolpunks.com/profile) 👈
+- [Find Your Perfect "Dumb" Tool](https://dumbsolpunks.com/twitter-discord) 👈
 - **New here?** Skip to the [timeline](#timeline) (view full-sized timeline image [here](https://github.com/solpunks69/SolPunks-Truth-Project/blob/master/assets/timeline.png?raw=true)). 👈
 - [SolPunks.org](https://dumbsolpunks.com), [DumbSolPunks.com](https://dumbsolpunks.com), [Discord](https://discord.gg/j5EUfCEb37) 👈
 
@@ -36,7 +36,7 @@ We don’t expect most people to YOLO their life savings into Dumb SolPunks (des
 
 But consider making your profile picture a Dumb SolPunk.
 
-["Find Your Dumb" Tool](https://dumbsolpunks.com/twitter)
+["Find Your Dumb" Tool](https://dumbsolpunks.com/twitter-discord)
 ![https://dumbsolpunks.com/twitter](assets/profile.png)
 
 A "dumb" pic the perfect way to
@@ -60,7 +60,7 @@ View full-sized timeline image [here](https://github.com/solpunks69/SolPunks-Tru
 Repo will be updated as new info, data, tools are made available.
 
 # Resources
-- [SolPunks.org](https://dumbsolpunks.com)
+- [SolPunks.org](https://solpunks.org)
 - [DumbSolPunks.com](https://dumbsolpunks.com)
 - [Twitter @SolPunks69](https://twitter.com/solpunks69)
 - [Twitter @SatireLabs](https://twitter.com/satirelabs)
