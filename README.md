@@ -44,7 +44,7 @@ A "dumb" pic the perfect way to
 - Show you're not afraid of Tractor's pathetic crap (read: [SolPunks & Trademark](https://satirelabs.medium.com/someone-is-trying-to-trademark-cryptopunks-and-its-not-larva-labs-dab0a46e6432))
 - Support SolPunks (who saved humanity 3 times), by helping them blend into the crowd.
 
-Dumb SolPunks look great on Twitter, Instagram, and as company profile pics. And they will help obfuscate our presence as Tractor becomes more pathetic and gives ominous threats of "shutting us down".
+Dumb SolPunks look great on Twitter, Instagram, Discord, and as company profile pics. And they will help obfuscate our presence as Tractor becomes more pathetic and gives ominous threats of "shutting us down".
 
 # Timeline
 View full-sized timeline image [here](https://github.com/solpunks69/SolPunks-Truth-Project/blob/main/assets/timeline.png?raw=true).
